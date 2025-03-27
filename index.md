@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/KoraggKnightWolf/KoraggKni
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Some changes/additions just to showcase that this is a legimate way to build your own personal website with Github!
+
+It shouldn't be used for business sites though, just for personal projects, and can always be a decent emergency fallback.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
